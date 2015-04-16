@@ -1,0 +1,25 @@
+{
+  "name": "notPager",
+  "main": "pager.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/interrupter/pager",
+  "authors": [
+    "interrupter"
+  ],
+  "description": "Data provider with support of paging, caching, filtering and ring data chains.",
+  "keywords": [
+    "pager",
+    "data",
+    "provider",
+    "filter",
+    "cache"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

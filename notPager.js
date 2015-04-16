@@ -168,7 +168,7 @@ var pager = {
     reset: function(){
         this.complects = [];
         this.cacheSize = 0;
-        this.pageNumberCurrent ={left: null, right: null};
+        this.pageNumberCurrent = {left: null, right: null};
         this.lastDirection = '';
         this.apiBlocked = false;
     },
