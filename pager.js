@@ -31,7 +31,7 @@ var pager = {
     //текущий набор элементов
     complects: [],
     //от куда берем данные
-    apiURL: '/constructor/get_complects.php',
+    apiURL: '',
     //получаем данные для фильтра
     getFilterParams: function () {
         return {};
