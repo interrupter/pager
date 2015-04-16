@@ -1,8 +1,8 @@
 {
   "name": "notPager",
-  "main": "pager.js",
+  "main": "notPager.js",
   "version": "0.0.0",
-  "homepage": "https://github.com/interrupter/pager",
+  "homepage": "https://github.com/interrupter/notPager",
   "authors": [
     "interrupter"
   ],
